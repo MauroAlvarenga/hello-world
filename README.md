@@ -1,2 +1,5 @@
 # hello-world
-learning github and other stuff
+
+##First Repo
+
+Hi!, I'm learning github and other stuff...
